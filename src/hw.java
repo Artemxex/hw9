@@ -4,7 +4,7 @@ public class hw {
         Author jules = new Author("Жуль", "Верн");
         Book alice = new Book("Путешествие Алисы", kir, 1965);
         Book island = new Book("Таинственный остров", jules, 1875);
-        alice.setYear(1965);
+        alice.setYear(1966);
 
     }
 }
